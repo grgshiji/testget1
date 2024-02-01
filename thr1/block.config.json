@@ -1,0 +1,18 @@
+{
+  "blockId": "p-n7VzOPTvJzm-bZeS6SS",
+  "name": "thr1",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/grgshiji/testget1.git",
+    "ssh": "git@github.com:grgshiji/testget1.git",
+    "branch": "block_thr1"
+  },
+  "parentBlockIDs": [
+    "kY4lFmhgjmySYsn3zKMX4"
+  ],
+  "repoType": "mono",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true
+}
