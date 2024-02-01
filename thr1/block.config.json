@@ -1,7 +1,7 @@
 {
-  "blockId": "p-n7VzOPTvJzm-bZeS6SS",
   "name": "thr1",
   "type": "package",
+  "blockId": "DjsUy8yCoLk0LPOGoQHwA",
   "source": {
     "https": "https://github.com/grgshiji/testget1.git",
     "ssh": "git@github.com:grgshiji/testget1.git",
@@ -10,9 +10,12 @@
   "parentBlockIDs": [
     "kY4lFmhgjmySYsn3zKMX4"
   ],
-  "repoType": "mono",
+  "isPublic": true,
   "supportedAppblockVersions": [
     "1.0.0"
   ],
-  "isPublic": true
+  "repoType": "mono",
+  "dependencies": {},
+  "version": "0.0.2",
+  "variantOf": "XdCpzsw_Gdu2mTRh-ORrg"
 }
